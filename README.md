@@ -10,7 +10,7 @@ Pendaftaran setiap workshop bisa dilakukan melalui [Meetup Cardano Hub Jakarta](
 
 Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indonesia:
 
-1 Pengenalan mengenai blockchain & Cardano
+1 **Pengenalan mengenai blockchain & Cardano**
   * Penjelasan mengenai blockchain
   * Pengenalan mengenai Bitcoin (1st gen) & Ethereum (2nd gen)
   * Apa itu Cardano
@@ -18,7 +18,7 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Proof-of-stake
   * Pengenalan ADA, wallet, stake pool, NFT, smart contract
 
-2 Cara membuat wallet Cardano
+2 **Cara membuat wallet Cardano**
   * Pengenalan apa itu wallet (hot wallet, cold wallet)
   * Jenis-jenis wallet di Cardano (Daedalus, Yoroi, AdaLite, Nami, ccwallet.io, dll.)
   * Tutorial cara membuat wallet di Daedalus, Yoroi dan Nami
@@ -31,7 +31,7 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Siklus delegasi
   * Cara stop delegasi / undelegate 
 
-3 Pengenalan Native Token & Non-fungible Token (NFT)
+3 **Pengenalan Native Token & Non-fungible Token (NFT)**
   * Apa itu native token
   * Apa itu non-fungible token (NFT)
   * Penggunaan native token & NFT
@@ -41,7 +41,7 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * cNFT marketplace (cnft.io, tokhun.io, jpg.store)
   * Cara beli dan jual cNFT
 
-4 Project Catalyst (tata kelola di Cardano)
+4 **Project Catalyst (tata kelola di Cardano)**
   * Pengenalan mengenai Project Catalyst
   * Peran-peran di Project Catalyst (proposer, CA, vCA, voter, referral)
   * Challenge di Project Catalyst
@@ -49,21 +49,21 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Catalyst Voting Apps
   * Eastern Town Hall Indonesia
 
-5 Cara menjadi Voter di Catalyst
+5 **Cara menjadi Voter di Catalyst**
   * Mengapa perlu aktif menjadi voter?
   * Reward sebagai voter?
   * Catalyst Voting Apps
   * Cara mendaftar voting melalui apps
   * Cara pemilihan proposal yang mau dipilih (vote)
 
-6 Cara menjadi Proposer di Catalyst
+6 **Cara menjadi Proposer di Catalyst**
   * Apa itu proposer?
   * Mengapa perlu menjadi proposer?
   * Cara permintaan funding melalui Catalyst
   * Cara submit proposal di IdeaScale
   * Cara penulisan proposal yang baik
 
-7 Cara menjadi Community Advisor (CA) di Catalyst
+7 **Cara menjadi Community Advisor (CA) di Catalyst**
   * Penjelasan mengenai Project Catalyst & governance di Cardano
   * Peran community advisor di Catalyst
   * Reward sebagai CA
@@ -71,13 +71,13 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Pembahasan mengenai detail tugas CA di setiap Fund
   * Tools CA untuk melakukan assessment
 
-8 Cara menjadi veteran Community Advisor (vCA) di Catalyst
+8 **Cara menjadi veteran Community Advisor (vCA) di Catalyst**
   * Peran vCA dalam Catalyst
   * Reward sebagai seorang vCA
   * Cara menjadi seorang vCA
   * Tools vCA untuk melakukan review assessment
 
-9 Blockchain Development di Cardano
+9 **Blockchain Development di Cardano**
   * Mengapa menjadi blockchain developer di Cardano
   * Sources untuk developer (Cardano Developer Portal)
   * Pengenalan Plutus, Haskell, Plutus Playground
@@ -88,7 +88,7 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Atala PRISM Pioneer Program
   * Kelas Foundation of Blockchain dan kelas Developer dari EMURGO Indonesia
 
-10 Stake Pool Operator (SPO)
+10 **Stake Pool Operator (SPO)**
   * Apa itu stake pool operator?
   * Cara menjadi seorang SPO
   * Tutorial membuat sebuah stake pool
@@ -96,7 +96,7 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Parameter sebuah stake pool
   * Panduan untuk dapat menjadi SPO yang handal
 
-11 Decentralized Identifiers (DID) & Atala PRISM
+11 **Decentralized Identifiers (DID) & Atala PRISM**
   * Apa itu Self-Sovereign Identity (SSI) dan decentralized identifiers (DID)
   * Pengenalan mengenai Atala PRISM dari Cardano
   * Issuer
@@ -104,7 +104,7 @@ Berikut adalah silabus workshop/kelas yang diadakan untuk komunitas Cardano Indo
   * Verifier
   * Use case (contoh penggunaan)
 
-12 Cardano Ecosystem
+12 **Cardano Ecosystem**
   * Exchange (Binance, Kraken, Coinbase, Kucoin, Huobi, Indodax)
   * Lending (Liqwid, MELD, Nexo, Paribus)
   * Oracle (Ergo, Chainlink)
