@@ -2,9 +2,12 @@
 
 Hi kawan-kawan 🇮🇩 Cardano Indonesia 👋
 
-Akan diadakan workshop dengan topik seputar Cardano via Zoom (online). Jadwal workshop selalu di hari :calendar: Minggu, jam 19:00-20:30 WIB (1 jam hingga max 1,5 jam).
+Akan diadakan workshop dengan topik seputar Cardano via Zoom (online). Jadwal workshop selalu di hari :calendar: Minggu, jam 19:00-20:30 WIB (1 jam hingga maks. 1,5 jam).
 
 Pendaftaran setiap workshop bisa dilakukan melalui [Meetup Cardano Hub Jakarta](https://www.meetup.com/Cardano-Blockchain-Jakarta/). Silahkan bergabung dengan grup Cardano Hub Jakarta dan registrasi untuk setiap event workshop yang sudah muncul di Meetup.
+
+### Logo
+<img src="https://github.com/cardano-indonesia/cardano-indonesia-workshops/blob/main/assets/cardanoIndonesiaWorkshopsLogo.png" width="400" height="400" alt="Cardano Indonesia Workshops"/>
 
 ### Silabus
 
