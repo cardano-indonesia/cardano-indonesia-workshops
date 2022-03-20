@@ -3,6 +3,8 @@
 ## Funded Proposal
 - [F7: Cardano Hub Indonesia - Workshops](https://github.com/cardano-indonesia/cardano-indonesia-workshops/issues/15)
 
+## Introduction (in Indonesian language)
+
 Hi kawan-kawan 🇮🇩 Cardano Indonesia 👋
 
 Akan diadakan workshop dengan topik seputar Cardano via Zoom (online). Jadwal workshop selalu di hari :calendar: Minggu, jam 19:00-21:00 WIB (1 jam hingga maks. 2 jam).
