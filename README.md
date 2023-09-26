@@ -2,6 +2,7 @@
 
 ## Funded Proposal
 - [F7: Cardano Hub Indonesia - Workshops](https://github.com/cardano-indonesia/cardano-indonesia-workshops/issues/15)
+- [F10: Cardano Hub Surabaya and Cardano Workshop Jakarta](https://cardano.ideascale.com/c/idea/107110)
 
 ## Introduction (in Indonesian language)
 
